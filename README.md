@@ -1,1 +1,1 @@
-# Statistical-Methods---UOS
+# Statistical-Methods-UOS
